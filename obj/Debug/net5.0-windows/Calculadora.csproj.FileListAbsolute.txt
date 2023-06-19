@@ -16,3 +16,4 @@ C:\Users\danilo.nsouza1\source\repos\Calculadora\obj\Debug\net5.0-windows\Calcul
 C:\Users\danilo.nsouza1\source\repos\Calculadora\obj\Debug\net5.0-windows\ref\Calculadora.dll
 C:\Users\danilo.nsouza1\source\repos\Calculadora\obj\Debug\net5.0-windows\Calculadora.pdb
 C:\Users\danilo.nsouza1\source\repos\Calculadora\obj\Debug\net5.0-windows\Calculadora.genruntimeconfig.cache
+C:\Users\danilo.nsouza1\source\repos\Calculadora\obj\Debug\net5.0-windows\Calculadora.Properties.Resources.resources
